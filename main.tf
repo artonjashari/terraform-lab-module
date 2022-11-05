@@ -1,6 +1,6 @@
 module "user-arton-modulee" {
   source  = "app.terraform.io/artonjashari/user-arton-modulee/iam"
-  version = "1.0.1"
+  version = "1.0.2"
   # insert required variables here
 
   user_name = "arton-user"
